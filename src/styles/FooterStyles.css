@@ -1,0 +1,15 @@
+
+.foot-nav-menu{
+  list-style-type: none;
+}
+.foot-nav-menu li{
+  margin: 8px 0px;
+  font-size: 20px;
+}
+.foot-nav-menu li a{
+  text-decoration: none;
+  color: #767676;
+}
+.span{
+  color: #FFFFFF;
+}
