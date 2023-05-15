@@ -6,11 +6,12 @@ import Layout from '../components/Layout/Layout'
 const Contact = () => {
   return (
     <Layout>
+      
       <Box sx={{
         display: 'flex',
         justifyContent: 'center',
         alignItems: 'center',
-        padding: '40px 100px',
+        padding: '120px 100px',
         backgroundColor: '#0C0B0A',
         }}>
         <Box sx={{
