@@ -12,7 +12,7 @@ const Footer = () => {
        <Box sx={{ bgcolor: '#060606', }}>
           <Box sx={{ bgcolor: '#060606', 
                   display: 'flex',
-                  alignItems: 'center',
+                  alignItems: 'space-around',
                   justifyContent : 'space-around',
                   padding: '100px 0 30px 0',
                    }}>
